@@ -1,0 +1,85 @@
+.content {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 0;
+	width: 100%;
+	height: 100%;
+	background: #ffffff;
+}
+
+.container {
+	width: 100%;
+	max-width: 1000px;
+	min-width: 500px;
+	background: #FFFFFF;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.header {
+	background: #6F7D94;
+	padding: 0 10px 0 10px;
+	height: 60px;
+	line-height: 60px;
+	vertical-align: middle;
+}
+
+h1 {
+	font-family: Palatino Linotype;
+	font-size: 24pt;
+	color: #ffffff;
+}
+
+h2 {
+	font-family: Palatino Linotype;
+	color: #000000;
+}
+
+
+.photo {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	border-style: solid;
+	border-width: medium;
+	visibility: hidden;
+}
+
+.photoInfo {
+	text-align: center;	
+}
+
+.centered {
+	margin-left: auto;
+	margin-right: auto;	
+	text-align: center;
+	width: 100%;
+}
+.logout{
+	float: right;
+}
+#headertext{
+	float: left;
+}
+
+table.friends {
+	border-width: 1px;
+	border-color: black;
+	padding: 2px;
+	
+}
+
+.hidden{
+	visibility: hidden;
+}
+
+.thumbnail {
+ float: left;
+  width: 50px;
+  padding: 10px;	
+}
+
+.gallery {
+border: 2px dashed #333;
+  background-color: #fff;	
+}
